@@ -41,7 +41,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/gts7xl/reco
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := omni_gts7xl
 PRODUCT_DEVICE := gts7xl
-PRODUCT_MODEL := SM-G978U
+PRODUCT_MODEL := SM-T978U
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
