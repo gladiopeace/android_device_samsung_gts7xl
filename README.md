@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_gts7xl-eng
+lunch twrp_gts7xl-eng
 make recoveryimage
 ```
 
